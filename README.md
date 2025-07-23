@@ -5,12 +5,12 @@ including adding, viewing, updating, and deleting employee data securely.
 
 ## 🛠️ Tech Stack
 
-Backend : Java, Spring Boot, Spring Data JPA
-Database : MySQL
-Security : Spring Security (with JWT or Basic Auth)
-Build Tool : Maven
-Version Control : Git, GitHub
-REST API : JSON-based, secured endpoints
+✅ Backend : Java, Spring Boot, Spring Data JPA
+✅ Database : MySQL
+✅ Security : Spring Security (with JWT or Basic Auth)
+✅ Build Tool : Maven
+✅ Version Control : Git, GitHub
+✅ REST API : JSON-based, secured endpoints
 
 ## 📦 Features
 
