@@ -1,4 +1,4 @@
-# Employee Management System
+# 👨‍💼 Employee Management System
 
 A simple and robust **Employee Management Application** that allows administrators to manage employee records, 
 including adding, viewing, updating, and deleting employee data securely.
