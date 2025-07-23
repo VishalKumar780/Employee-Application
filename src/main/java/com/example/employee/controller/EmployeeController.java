@@ -25,7 +25,6 @@ public class EmployeeController {
 	@PreAuthorize("hasRole('ADMIN')")
 	@PostMapping
 	public Employee saveEmployee(@RequestBody Employee employee) {
-		System.out.print("HIT");
 		return service.createEmployee(employee);
 	}
 	
